@@ -2,7 +2,9 @@
 Neste contexto IRPF (**I**mposto sobre a **R**enda das **P**essoas **F**ísicas) vai estar se referindo ao software que o governo criou para podermos informalos do nosso imposto de renda.  
 
 Download: https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/pgd/dirpf  
-Todo ano se deve baixar a versão daquele ano.  
+
+Todo ano se deve baixar a versão daquele ano para fazer o imposto de renda do ano passado.  
+Em outras palavras, você baixa o IRPF de 2024 para fazer o imposto de renda de 2023.   
 
 # Backup
 O sistema oferece armazenar na núvem deles mas a recomendação é sempre fazer o backup manual também.  
