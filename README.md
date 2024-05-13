@@ -12,7 +12,7 @@ O sistema oferece armazenar na núvem deles mas a recomendação é sempre fazer
 Já aconteceu de sistemas do governos sofrerem com [ransomware](https://en.wikipedia.org/wiki/Ransomware) (malware que bloqueia acesso a dados até que se pague os hackers), então é recomendado que você tenha o backup na sua núvem de preferência (icloud/google drive/onedrive).  
 
 ## Backup formats
-Existem 3 tipos de arquivos únicos do IRPF:  
+Existem 3 formatos de arquivos únicos do IRPF:  
 - `.DBK`
   - Backup do estado dos dados preenchidos até o momento
     - Esse backup é usado para caso você queira parar de editar a declaração no meio e queira voltar a editar ela mais tarde
@@ -20,6 +20,7 @@ Existem 3 tipos de arquivos únicos do IRPF:
   - Backup da **Rec**eita
     - Esse backup deve ser importado no início da declaração do ano seguinte
       - Ao menos que isso seja feito automaticamente pelo IRPF
+      - Não se precisa fazer isso se nunca fez imposto de renda antes
   - Nome do arquivo: `{0}-IRPF-A-{1}-{2}-ORIGI.REC`
     - `{0}`: Os números do seu CPF
     - `{1}`: Ano feito
@@ -31,6 +32,7 @@ Existem 3 tipos de arquivos únicos do IRPF:
   - Backup da **Dec**laração
     - Esse backup deve ser importado no início da declaração do ano seguinte
       - Ao menos que isso seja feito automaticamente pelo IRPF
+      - Não se precisa fazer isso se nunca fez imposto de renda antes
   - Nome do arquivo: `{0}-IRPF-A-{1}-{2}-ORIGI.DEC`
     - `{0}`: Os números do seu CPF
     - `{1}`: Ano feito
@@ -41,6 +43,5 @@ Existem 3 tipos de arquivos únicos do IRPF:
       - Porém caso tenha sido uma compra de pessoa física ou venda para pessoa física, você ainda deve ter que preencher manualmente
 
 ## Backup files
-Ao final do IRPF, é recomendado que você tenha baixado os arquivos do formato `.REC` e `.DEC` e feito backup deles na sua núvem.  
-
-Além destes dois arquivos com o formato único do IRPF, também é recomendado que você tenha baixado o arquivo `.pdf` com o resumo do ocorrido.  
+Ao final do IRPF o botão "Gravar Cópia" vai ficar disponível para apertar.  
+Use ele para criar os backups (`.REC`, `.DEC`) e criar um recibo (`.pdf`) dizendo que você declarou, salve tudo na sua núvem pessoal e aceite salvar na núvem do governo.  
