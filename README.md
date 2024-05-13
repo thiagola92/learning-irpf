@@ -6,6 +6,26 @@ Download: https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/
 Todo ano se deve baixar a versão daquele ano para fazer o imposto de renda do ano passado.  
 Em outras palavras, você baixa o IRPF de 2024 para fazer o imposto de renda de 2023.   
 
+# Start
+Todo imposto de renda envolve você dizer os valores no ano X ao mesmo tempo que mostra o IRPF mostra como eles estavam em X-1.  
+
+Por exemplo, para IRPF 2024:
+| 2022   | 2023   |
+| ------ | ------ |
+| R$50,0 | R$75,0 |
+
+Entendeu? Estou utilizando o IRPF de **2024** para preencher sobre o ano de **2023** e enquanto o programa mostra como estava em **2022**.  
+
+## Start import
+IRPF vai dar 3 opções de criação da declaração:
+- Iniciar Declaração em Branco
+  - Se é a sua primeira declaração da vida, é essa opção que você deve selecionar
+- Iniciar Importando Declaração de XXXX
+  - Caso você tenha feito backup, você pode importar informações do IPRF passado com essa opção
+- Iniciar Declaração a partir da Pré-Preenchida
+  - Caso sua conta do governo (gov.br) seja eligível, você pode ter seu IRPF pré pronto
+  - A recomendação é sempre validar se nada foi preenchido incorretamente (sim, isso já aconteceu antes)
+
 # Backup
 O sistema oferece armazenar na núvem deles mas a recomendação é sempre fazer o backup manual também.  
 
@@ -44,4 +64,5 @@ Existem 3 formatos de arquivos únicos do IRPF:
 
 ## Backup files
 Ao final do IRPF o botão "Gravar Cópia" vai ficar disponível para apertar.  
+
 Use ele para criar os backups (`.REC`, `.DEC`) e criar um recibo (`.pdf`) dizendo que você declarou, salve tudo na sua núvem pessoal e aceite salvar na núvem do governo.  
