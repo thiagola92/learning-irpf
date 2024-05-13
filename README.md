@@ -40,4 +40,5 @@ Existem 3 tipos de arquivos únicos do IRPF:
 
 ## Backup files
 Ao final do IRPF, é recomendado que você tenha baixado os arquivos do formato `.REC` e `.DEC` e feito backup deles na sua núvem.  
+
 Além destes dois arquivos com o formato único do IRPF, também é recomendado que você tenha baixado o arquivo `.pdf` com o resumo do ocorrido.  
