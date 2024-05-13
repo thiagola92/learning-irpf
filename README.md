@@ -45,7 +45,7 @@ Existem 3 formatos de arquivos únicos do IRPF:
     - `{0}`: Os números do seu CPF
     - `{1}`: Ano feito
     - `{2}`: Ano do qual se refere
-    - Exemplo: `12345678901-IRPF-A-2021-2020-ORIGI.REC`
+    - Exemplo: `12345678901-IRPF-A-2024-2023-ORIGI.REC`
   - **Observação**: `.rec` também é um formato de video então se você tiver um video player, ele talvez ache que é um video e bote o ícone do video player 😆
     - Isso não é um problema! Só ignore e siga sua vida.
 - `.DEC`
@@ -57,7 +57,7 @@ Existem 3 formatos de arquivos únicos do IRPF:
     - `{0}`: Os números do seu CPF
     - `{1}`: Ano feito
     - `{2}`: Ano do qual se refere
-    - Exemplo: `12345678901-IRPF-A-2021-2020-ORIGI.DEC`
+    - Exemplo: `12345678901-IRPF-A-2024-2023-ORIGI.DEC`
   - Este arquivo armazena justamente suas declarações, ou seja, qualquer coisa que você tenha "preenchido" durante o IRPF
     - Hoje em dia tem o preenchimento automático para muitas informações. Por exemplo: dados vindo do banco
       - Porém caso tenha sido uma compra de pessoa física ou venda para pessoa física, você ainda deve ter que preencher manualmente
