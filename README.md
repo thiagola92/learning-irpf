@@ -6,7 +6,7 @@ Download: https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/
 Todo ano se deve baixar a versão daquele ano para fazer o imposto de renda do ano passado.  
 Em outras palavras, você baixa o IRPF de 2024 para fazer o imposto de renda de 2023.   
 
-# Start
+# Início
 Todo imposto de renda envolve você dizer os valores no ano X ao mesmo tempo que mostra o IRPF mostra como eles estavam em X-1.  
 
 Por exemplo, para IRPF 2024:
@@ -16,7 +16,7 @@ Por exemplo, para IRPF 2024:
 
 Entendeu? Estou utilizando o IRPF de **2024** para preencher sobre o ano de **2023** e enquanto o programa mostra como estava em **2022**.  
 
-## Start import
+## Importando
 IRPF vai dar 3 opções de criação da declaração:
 - Iniciar Declaração em Branco
   - Se é a sua primeira declaração da vida, é essa opção que você deve selecionar
@@ -26,12 +26,29 @@ IRPF vai dar 3 opções de criação da declaração:
   - Caso sua conta do governo (gov.br) seja eligível, você pode ter seu IRPF pré pronto
   - A recomendação é sempre validar se nada foi preenchido incorretamente (sim, isso já aconteceu antes)
 
+# Fichas
+
+## (TODO) Rend. Trib. Receb. de Pessoa Jurídica
+Empresa para você?
+
+## (TODO) Rendimentos Isentos de Não Tributáveis
+FGTS?
+
+## Rendimentos Sujeitos à Tributação Exclusiva/Definitiva
+Participação nos lucros?
+
+## Pagamentos Efetuados
+Serviços de terceiros (médico/dentista/plano de saúde)?
+
+## Bens e Direitos
+Valor nos bancos?
+
 # Backup
 O sistema oferece armazenar na núvem deles mas a recomendação é sempre fazer o backup manual também.  
 
 Já aconteceu de sistemas do governos sofrerem com [ransomware](https://en.wikipedia.org/wiki/Ransomware) (malware que bloqueia acesso a dados até que se pague os hackers), então é recomendado que você tenha o backup na sua núvem de preferência (icloud/google drive/onedrive).  
 
-## Backup formats
+## Formatos de Backup
 Existem 3 formatos de arquivos únicos do IRPF:  
 - `.DBK`
   - Backup do estado dos dados preenchidos até o momento
